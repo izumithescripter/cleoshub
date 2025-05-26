@@ -1,0 +1,31 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+ 
+.home-text1 {
+  display: inline-block;
+}
+ 
+.home-text2 {
+  display: inline-block;
+}
+ 
+.home-navlink1 {
+  text-decoration: none;
+}
+ 
+.home-image {
+  width: 824px;
+  height: 554px;
+  object-fit: cover;
+  object-position: center;
+}
+ 
+.home-navlink2 {
+  text-decoration: none;
+}
